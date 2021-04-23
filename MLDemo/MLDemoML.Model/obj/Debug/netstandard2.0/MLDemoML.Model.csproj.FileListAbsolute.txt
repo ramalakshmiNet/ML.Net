@@ -1,0 +1,10 @@
+D:\Learning\MLDemo\MLDemoML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Learning\MLDemo\MLDemoML.Model\bin\Debug\netstandard2.0\MLDemoML.Model.deps.json
+D:\Learning\MLDemo\MLDemoML.Model\bin\Debug\netstandard2.0\MLDemoML.Model.dll
+D:\Learning\MLDemo\MLDemoML.Model\bin\Debug\netstandard2.0\MLDemoML.Model.pdb
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.csprojAssemblyReference.cache
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.AssemblyInfoInputs.cache
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.AssemblyInfo.cs
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.csproj.CoreCompileInputs.cache
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.dll
+D:\Learning\MLDemo\MLDemoML.Model\obj\Debug\netstandard2.0\MLDemoML.Model.pdb
